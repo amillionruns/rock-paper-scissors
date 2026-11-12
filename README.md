@@ -2,7 +2,7 @@
 
 The code and data behind the A Million Runs video **We Played Rock Paper Scissors 1,000,000 Times**.
 
-- Watch the video: https://www.youtube.com/@amillionruns
+- Watch the video: https://www.youtube.com/watch?v=K3r9Z0-4K2A
 - Play against Blank Sheet in your browser: https://amillionruns.com/rock-paper-scissors
 
 Rock paper scissors is supposed to be pure luck. For every pairing below, we played a million matches, a thousand rounds each. Against a truly random player, every strategy we tried came out dead even. Against players with human habits, a simple bot that knows those habits won 41% of rounds and lost just 27%.
